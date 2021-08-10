@@ -1,0 +1,35 @@
+.container{
+    margin: 0px auto;    
+    width: 32%;
+    padding: 2px;
+    box-shadow:10px 10px 10px rgb(0, 0,0, .3) ; 
+    border-radius: 2px black;
+    background-color:gray;
+    border: 2px solid;
+    border-radius:5px;
+
+}
+table{
+    margin: 0px auto;
+}
+button{
+    width: 90px;
+    height:60px;
+    /* border-radius: 5px gray; */
+    background-color: black;
+    color: white;
+    font-size:20px;
+    border-radius:10px;
+    box-shadow:3px 3px 5px rgb(0, 0,0, .3);
+    font-weight: bold;
+}
+input{
+    height:70px;
+    width:378px;
+    font-size:25px;
+    border-radius: 10px;
+     padding-left: 10px; 
+    margin-right : 2%px; 
+    font-weight: bold;
+    text-align: right;
+}
